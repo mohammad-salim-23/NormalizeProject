@@ -10,7 +10,7 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 
-const META_THEME_COLORS = {
+const META_THEME_COLOR = {
   light: "#ffffff",
   dark: "#09090b",
  
